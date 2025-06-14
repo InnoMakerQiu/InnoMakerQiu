@@ -23,10 +23,10 @@ If you find synergy in our interests, feel free to reach out!
 
 <h3 align="left">RESEARCH EXPERIENCE</h3>
 
-🚀 **Diffusion Planning with TrigFlow & Adaptive Weighting**  
+🚀 **Fast and Stable Diffusion Planning through Variational Adaptive Weighting**  
 
 *Westlake University, with Prof. Tao Lin*  
-Improved training efficiency of diffusion-based motion planners; SOTA results with 4k steps. First-author manuscript in prep for ICLR 2025.
+Improved training efficiency of diffusion-based motion planners; SOTA results with 4k steps. First-author manuscript under revision for ICLR 2025.（More technical details available in [./application.pdf](./application.pdf))
 
 🧪 **Fine-Tuning Foundation Models: A Systematic Study**  
 
