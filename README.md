@@ -13,14 +13,6 @@ If you find synergy in our interests, feel free to reach out!
 
 ---
 
-<h3 align="left">SELECTED HONORS</h3>
-
-- 🏫 **National Endeavor Scholarship**  
-- 🥇 **First-Class Excellent Student Scholarship**  
-- 📚 **Academic Excellence Scholarship**
-
----
-
 <h3 align="left">RESEARCH EXPERIENCE</h3>
 
 🚀 **Fast and Stable Diffusion Planning through Variational Adaptive Weighting**  
@@ -38,11 +30,11 @@ Built attitude control system on STM32 using uCOSII; integrated sensor modules f
 
 ---
 
-<h3 align="left">SKILLS</h3>
+<h3 align="left">PUBLICATIONS</h3>
 
-- 💻 Python, C, PyTorch, Java  
-- 🔧 STM32, FreeRTOS, ARM Assembly  
-- 🌐 English CET-6 (550)
+📄 **Zhiying Qiu**, Tao Lin.  
+*Fast and Stable Diffusion Planning through Variational Adaptive Weighting*  
+arXiv preprint arXiv:2506.16688, 2025. [[PDF]](https://arxiv.org/pdf/2506.16688)
 
 ---
 
